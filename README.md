@@ -12,7 +12,7 @@
 1. Download the setup script:
 
 ```bash
-curl -O /setup_react_native_env.sh
+curl -O https://github.com/IamCodebreaker/react-native-env-setup.sh
 chmod +x setup_react_native_env.sh
 ./setup_react_native_env.sh
 
