@@ -1,5 +1,5 @@
 ## >>**What the script does:**
->Installs Homebrew if it’sxx not already installed.
+>Installs Homebrew if it’s not already installed.
 >Installs Xcode Command Line Tools and accepts the Xcode license agreement.
 >Installs Android Studio using Homebrew.
 >Installs Node.js and Watchman using Homebrew.
