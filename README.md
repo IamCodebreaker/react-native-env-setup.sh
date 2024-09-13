@@ -7,11 +7,6 @@
 >Installs the React Native CLI globally.
 >Provides instructions for setting up the Android SDK and configuring environment variables for Android development.
 >
-# >Installation:
-
-""chmod +x setup_react_native_env.sh""
-""./setup_react_native_env.sh""
-
 ## React Native Environment Setup Script
 
 1. Download the setup script:
